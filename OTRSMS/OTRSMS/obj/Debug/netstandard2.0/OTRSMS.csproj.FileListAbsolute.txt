@@ -1,0 +1,15 @@
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\bin\Debug\netstandard2.0\OTRSMS.deps.json
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\bin\Debug\netstandard2.0\OTRSMS.dll
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\bin\Debug\netstandard2.0\OTRSMS.pdb
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\obj\Debug\netstandard2.0\OTRSMS.csproj.AssemblyReference.cache
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\obj\Debug\netstandard2.0\OTRSMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\obj\Debug\netstandard2.0\OTRSMS.AssemblyInfoInputs.cache
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\obj\Debug\netstandard2.0\OTRSMS.AssemblyInfo.cs
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\obj\Debug\netstandard2.0\OTRSMS.csproj.CoreCompileInputs.cache
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\obj\Debug\netstandard2.0\OTRSMS.dll
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\obj\Debug\netstandard2.0\refint\OTRSMS.dll
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\obj\Debug\netstandard2.0\OTRSMS.pdb
+C:\Users\Ready Player One\source\repos\OTRSMS\OTRSMS\OTRSMS\obj\Debug\netstandard2.0\ref\OTRSMS.dll
